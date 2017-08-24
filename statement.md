@@ -4,7 +4,7 @@ This PHP template lets you get started quickly with a simple one-page playground
 
 ```php runnable
 <?php
-echo "working";
+echo "Hello World!";
 ?>
 ```
 
