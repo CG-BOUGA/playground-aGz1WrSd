@@ -1,11 +1,13 @@
 # Welcome!
 
-This Node.js template lets you get started quickly with a simple one-page playground.
+This PHP template lets you get started quickly with a simple one-page playground.
 
-```javascript runnable
-console.log('Hello World!');
+```php runnable
+<?php
+echo "working";
+?>
 ```
 
 # Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Node.js template](https://tech.io/select-repo/442)
+If you want a more complex example (external libraries, viewers...), use the [Advanced PHP template](https://tech.io/select-repo/574)
